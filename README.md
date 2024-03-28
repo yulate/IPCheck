@@ -16,7 +16,7 @@
 
 ### 默认页面
 
-![image-20230622180255980](https://c.img.dasctf.com/images/2023622/1687428177329-3ee6908b-8923-4034-842f-9b69b148eece.png)
+![image-20230622180255980](./img/1687428177329-3ee6908b-8923-4034-842f-9b69b148eece.png)
 
 ### run指令
 
@@ -48,4 +48,4 @@ Flags:
 
 开启300个协程 扫描5096个独立IP 耗时8s
 
-![image-20230622181950619](C:\Users\yulate\AppData\Roaming\Typora\typora-user-images\image-20230622181950619.png)
+![image-20230622181950619](./img/image-20230622181950619.png)
